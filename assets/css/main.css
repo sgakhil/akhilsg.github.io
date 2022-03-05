@@ -535,7 +535,7 @@ h6 small {
 
 h2,
 h3, .c-number {
-  font-size: 1.2rem;
+  font-size: 1.3rem;
   line-height: 1.45;
   text-transform: uppercase;
 }
@@ -1905,7 +1905,7 @@ img[height] {
     text-align: right;
   }
   .o-section__content {
-    width: 70%;
+    width: 75%;
   }
   .o-section__header-bg,
   .o-section__content-bg {
@@ -2258,11 +2258,11 @@ img[height] {
 .c-work__timeframe,
 .c-work__location {
   opacity: .6;
-  font-size: 0.7rem;
+  font-size: 0.9rem;
 }
 
 .c-work__title {
-  font-size: 0.8rem;
+  font-size: 0.9rem;
 }
 
 .c-social-button {
