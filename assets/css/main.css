@@ -537,7 +537,7 @@ h2,
 h3, .c-number {
   font-size: 1.3rem;
   line-height: 1.45;
-  text-transform: uppercase;
+  text-transform: none;
 }
 
 a {
